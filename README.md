@@ -1,4 +1,4 @@
-# Job Description Co-Pilot
+# Job Description Builder Co-Pilot
 
 ## Objective
 To significantly reduce the time recruiters spend crafting job descriptions by leveraging generative AI, thereby ensuring consistency and comprehensiveness in job posts.
